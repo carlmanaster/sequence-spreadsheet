@@ -1,0 +1,1 @@
+This project implements a spreadsheet whose functions operate on nucleotide and amino acid sequences.
